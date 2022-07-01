@@ -42,7 +42,7 @@ Para instalar o Node.js, acesse: https://nodejs.org/pt-br/download/package-manag
 O Typescript também precisa ser configurado, utilize essa página como referência: https://www.typescriptlang.org/download
 
 O sequelize deve ser configurado conforme orientações da documentação oficial: https://sequelize.org/docs/v6/getting-started/
-Para utilizar o express, ele também deve ser instalado
+Para utilizar o express, ele também deve ser instalado: https://expressjs.com/pt-br/starter/installing.html
 
 <br/>
 
@@ -50,6 +50,8 @@ Para utilizar o express, ele também deve ser instalado
 1. Implementar possibilidade de realizar entregas, incluindo no pedido a informação se ele será entregue ou não.
 
 2. Implementar a possibilidade de o cliente avaliar os entregadores.
+
+3. Implementar autenticação para impedir que os clientes façam as alterações em nome de outros clientes.
 
 <br/>
 
